@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "DylanR4k",
+        "link": "https://www.youtube.com/@dylanr4k"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Zarko",
+        "link": "https://www.youtube.com/@Zarko-x4e"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "christian",
+        "link": "https://cdn.discordapp.com/attachments/1482037941399326913/1482378381667340368/IMG_0719.jpg?ex=69b6bbf3&is=69b56a73&hm=d395d6f6dafc3d09b93d69be6e6ce7e511d828c0676a7988e106fa0262321414&"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "junior",
+        "link": "https://cdn.discordapp.com/attachments/1444502664250654925/1482075225054122065/IMG_7042.png?ex=69b64a5d&is=69b4f8dd&hm=7dc41c7120b9e1a17b6b919c4b0775e8f73eca1bc06c9e00404a6f2a02ae321d&"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "DylanR4k (Again)",
+        "link": "https://www.youtube.com/@dylanr4k"
     }
 ]
